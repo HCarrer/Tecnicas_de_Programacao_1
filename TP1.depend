@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1569271907 source:c:\users\badti\onedrive\Área de trabalho\chacon\tp1\main.cpp
+	<iostream>
+	"dominios.h"
+
+1569272052 source:c:\users\badti\onedrive\Área de trabalho\chacon\tp1\src\dominios.cpp
+	"dominios.h"
+	<string>
+	<iostream>
+
+1569271907 c:\users\badti\onedrive\Área de trabalho\chacon\tp1\include\dominios.h
+	<iostream>
+
+1569781123 source:c:\users\badti\documents\chacon\tp1\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.h"
+	"testes.h"
+
+1569701102 c:\users\badti\documents\chacon\tp1\include\dominios.h
+	<iostream>
+
+1569700207 source:c:\users\badti\documents\chacon\tp1\src\dominios.cpp
+	"dominios.h"
+	<string>
+	<iostream>
+	<sstream>
+	<math.h>
+
+1569604123 source:c:\users\badti\documents\chacon\tp1\src\entiidades.cpp
+	"entiidades.h"
+	"dominios.h"
+
+1569604142 c:\users\badti\documents\chacon\tp1\include\entiidades.h
+	"dominios.h"
+
+1569699785 source:c:\users\badti\documents\chacon\tp1\src\entidades.cpp
+	"entidades.h"
+
+1569700207 c:\users\badti\documents\chacon\tp1\include\entidades.h
+	"dominios.h"
+
+1569699784 source:c:\users\badti\documents\chacon\tp1\src\testes.cpp
+	<string>
+	<iostream>
+	"testes.h"
+
+1569699785 c:\users\badti\documents\chacon\tp1\include\testes.h
+	"dominios.h"
+
